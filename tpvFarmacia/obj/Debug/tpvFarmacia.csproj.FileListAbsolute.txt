@@ -1,0 +1,45 @@
+c:\users\david\documents\visual studio 2015\Projects\tpvFarmacia\tpvFarmacia\bin\Debug\tpvFarmacia.exe.config
+c:\users\david\documents\visual studio 2015\Projects\tpvFarmacia\tpvFarmacia\bin\Debug\tpvFarmacia.exe
+c:\users\david\documents\visual studio 2015\Projects\tpvFarmacia\tpvFarmacia\bin\Debug\tpvFarmacia.pdb
+c:\users\david\documents\visual studio 2015\Projects\tpvFarmacia\tpvFarmacia\bin\Debug\MySql.Data.dll
+c:\users\david\documents\visual studio 2015\Projects\tpvFarmacia\tpvFarmacia\bin\Debug\MySql.Data.xml
+c:\users\david\documents\visual studio 2015\Projects\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.Form1.resources
+c:\users\david\documents\visual studio 2015\Projects\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.Properties.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.exe
+c:\users\david\documents\visual studio 2015\Projects\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.formGestion.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\tpvFarmacia\tpvFarmacia\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\David\Desktop\tpvFarmacia\tpvFarmacia\bin\Debug\tpvFarmacia.exe.config
+C:\Users\David\Desktop\tpvFarmacia\tpvFarmacia\bin\Debug\tpvFarmacia.exe
+C:\Users\David\Desktop\tpvFarmacia\tpvFarmacia\bin\Debug\tpvFarmacia.pdb
+C:\Users\David\Desktop\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.Form1.resources
+C:\Users\David\Desktop\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.formGestion.resources
+C:\Users\David\Desktop\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.Properties.Resources.resources
+C:\Users\David\Desktop\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.exe
+C:\Users\David\Desktop\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.pdb
+C:\Users\David\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\bin\Debug\tpvFarmacia.exe.config
+C:\Users\David\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.exe
+C:\Users\David\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.pdb
+C:\Users\David\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\bin\Debug\tpvFarmacia.exe
+C:\Users\David\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\bin\Debug\tpvFarmacia.pdb
+C:\Users\David\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.Form1.resources
+C:\Users\David\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.formGestion.resources
+C:\Users\David\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.Properties.Resources.resources
+C:\Users\David\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.csproj.GenerateResource.Cache
+C:\Users\Naburus\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\bin\Debug\tpvFarmacia.exe.config
+C:\Users\Naburus\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.exe
+C:\Users\Naburus\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.pdb
+C:\Users\Naburus\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\bin\Debug\tpvFarmacia.exe
+C:\Users\Naburus\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\bin\Debug\tpvFarmacia.pdb
+C:\Users\Naburus\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\Naburus\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.Form1.resources
+C:\Users\Naburus\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.formGestion.resources
+C:\Users\Naburus\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.Properties.Resources.resources
+C:\Users\Naburus\Desktop\tpvDefinitivo\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\tpvFarmacia\tpvFarmacia\bin\Debug\mysqlbackup.dll
+C:\Users\David\Desktop\tpvFarmacia\tpvFarmacia\obj\Debug\tpvFarmacia.csproj.tpvFarmacia.exe.config
